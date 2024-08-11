@@ -1,4 +1,3 @@
-![logo](https://github.com/Daksh-pal/Daksh-pal/blob/main/github.jpg)
 <h1 align="center">Hi 👋, I'm Daksh Pal</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
 
