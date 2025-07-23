@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daksh Pal</h1>
-<h3 align="center">A passionate MERN Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Daksh</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dakshxdev" target="blank"><img src="https://img.shields.io/twitter/follow/dakshxdev?logo=twitter&style=for-the-badge" alt="dakshxdev" /></a> </p>
 
-- 🔭 Working for https://360degreecloud.com/ 
+- 🔭 Software Developer at https://360degreecloud.com/ 
 
 - 🌱 I’m currently advancing **my knowledge of MERN stack.**
 
