@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dakshxdev" target="blank"><img src="https://img.shields.io/twitter/follow/dakshxdev?logo=twitter&style=for-the-badge" alt="dakshxdev" /></a> </p>
 
-- 🔭 I’m currently working on brushing up my skills. 
+- 🔭 Working for https://360degreecloud.com/ 
 
 - 🌱 I’m currently advancing **my knowledge of MERN stack.**
 
