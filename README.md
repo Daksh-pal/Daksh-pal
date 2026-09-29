@@ -1,33 +1,179 @@
-<h1 align="center">Hi 👋, I'm Daksh</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Daksh Pal</h1>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daksh-pal&label=Profile%20views&color=0e75b6&style=flat" alt="daksh-pal" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dakshxdev" target="blank"><img src="https://img.shields.io/twitter/follow/dakshxdev?logo=twitter&style=for-the-badge" alt="dakshxdev" /></a> </p>
-
-- 🔭 Software Developer at https://360degreecloud.com/ 
-
-- 🌱 I’m currently advancing **my knowledge of MERN stack.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Daksh-pal/Daksh-pal](https://github.com/Daksh-pal)
-
-- 📫 How to reach me **pal.daksh22@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dakshxdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dakshxdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dakshpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dakshpal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/daksh_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="daksh_pal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/paldaksh22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paldaksh22" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Developer</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  Full-Stack Web Developer working with JavaScript, TypeScript, React, Node.js and MongoDB.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daksh-pal&show_icons=true&locale=en" alt="daksh-pal" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dakshpal">LinkedIn</a>
+  •
+  <a href="https://github.com/Daksh-pal">GitHub</a>
+  •
+  <a href="https://leetcode.com/Daksh_Pal">LeetCode</a>
+  •
+  <a href="mailto:pal.daksh22@gmail.com">Email</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daksh-pal&" alt="daksh-pal" /></p>
+---
+
+## About Me
+
+I'm a Software Developer from India with hands-on experience building web applications using JavaScript and TypeScript.
+
+I work primarily with the MERN stack and have experience building both frontend interfaces and backend APIs.
+
+My current development experience includes:
+
+- Building React applications
+- Developing REST APIs with Node.js and Express
+- Working with MongoDB and MySQL
+- Implementing authentication and authorization
+- Working with JWT and HTTP cookies
+- Building protected API routes and middleware
+- Integrating frontend applications with backend APIs
+- Using Git and GitHub for version control
+- Testing APIs using Postman
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+---
+
+## What I Work With
+
+### Frontend
+- React
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Tailwind CSS
+- REST API integration
+- React Context API
+- State management with React hooks
+
+### Backend
+- Node.js
+- Express.js
+- TypeScript
+- REST API development
+- Middleware
+- Error handling
+- Authentication and authorization
+- JWT
+- HTTP cookies
+
+### Database
+- MongoDB
+- Mongoose
+- MySQL
+- Database CRUD operations
+- Schema design
+
+---
+
+## Featured Project
+
+### 🔗 URL Shortener
+
+A full-stack URL shortening application built with React, TypeScript, Node.js, Express and MongoDB.
+
+The application allows authenticated users to create short URLs and manage their generated links.
+
+**Features**
+
+- User sign-up and sign-in
+- JWT-based authentication
+- Protected API routes
+- HTTP cookie-based authentication
+- URL shortening
+- Custom short URLs
+- URL redirection
+- Click tracking
+- User-specific URL management
+- React frontend
+- REST API backend
+
+**Tech Stack**
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Mongoose` `JWT`
+
+[View Repository →](https://github.com/Daksh-pal)
+
+---
+
+## Experience
+
+### Software Developer
+
+**360 Degree Cloud**
+
+Working as a Software Developer and developing my practical experience with modern web development technologies.
+
+My development work and personal projects have helped me build hands-on experience across frontend development, backend APIs, databases and authentication.
+
+---
+
+## GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Daksh-pal&show_icons=true&hide_border=true&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-pal&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/dakshpal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:pal.daksh22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://leetcode.com/Daksh_Pal">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" />
+  </a>
+</p>
